@@ -47,15 +47,8 @@ I believe in **learning by building**, writing **production-ready code**, and co
 
 ## 📊 GitHub Stats
 
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-ryan06&show_icons=true&theme=transparent)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=A-ryan06&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-ryan06&layout=compact&theme=transparent)
 
----
 
-![Profile Views](https://visitcount.itsvg.in/api?id=A-ryan06&icon=0&color=0)
-
----
 
 💡 *Always learning. Always building. Open to collaboration and opportunities in Java Backend & Full-Stack Development.*
 
